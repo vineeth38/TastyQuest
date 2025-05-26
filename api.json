@@ -1,0 +1,364 @@
+{
+  "tiffin_recipes": [
+    {
+      "id": 1,
+      "name": "Poha",
+      "image": "https://media.istockphoto.com/id/1432250420/photo/tamarind-poha-or-puli-aval.jpg?s=612x612&w=0&k=20&c=txhqQu3t_QcbWcONHZkFzNmHDBbSJZZ9GKR8pRxB1Wg=",
+      "prep_time": "15 mins",
+      "ingredients": [
+        "1 cup flattened rice (poha)",
+        "1 onion (chopped)",
+        "1 green chili (chopped)",
+        "1/4 tsp mustard seeds",
+        "8-10 curry leaves",
+        "1/4 tsp turmeric powder",
+        "Salt to taste",
+        "2 tsp oil",
+        "Lemon juice & coriander for garnish"
+      ],
+      "instructions": [
+        "Rinse poha and set aside.",
+        "Heat oil, add mustard seeds, curry leaves, and green chili.",
+        "Add onions, sauté till soft.",
+        "Add turmeric, salt, and poha.",
+        "Mix well and cook for 2-3 mins.",
+        "Garnish with lemon juice and coriander."
+      ]
+    },
+    {
+  "id": 2,
+  "name": "Omelette Chapati",
+  "image": "https://media.istockphoto.com/id/898451452/photo/omelette-omlet-omlete-chapati-roll-or-indian-bread-or-roti-rolled-with-omlet-popular-quick-and.jpg?s=612x612&w=0&k=20&c=WpCWQzNLERUm-YtTybQBaDBhAGrthk2gPJIPw2Taut4=",
+  "prep_time": "15 mins",
+  "ingredients": [
+    "2 eggs",
+    "1 chapati",
+    "1 onion (finely chopped)",
+    "1 green chili (optional, chopped)",
+    "2 tbsp coriander leaves",
+    "Salt and pepper to taste",
+    "Oil or butter"
+  ],
+  "instructions": [
+    "Whisk eggs with onion, chili, coriander, salt, and pepper.",
+    "Heat a pan with a little oil and pour the egg mixture.",
+    "Before the omelette sets fully, place a chapati on top and press gently.",
+    "Flip and cook for a few more seconds.",
+    "Roll and serve as a tiffin wrap."
+  ]
+},
+    {
+      "id": 3,
+      "name": "Masala Dosa",
+      "image": "https://media.istockphoto.com/id/2150877039/photo/south-indian-feast-crispy-dosa-with-lentil-stew.jpg?s=612x612&w=0&k=20&c=IR0u7NVQhyxDDMACJcsjTWXrzmEwH1h0a_dlfM8z_7U=",
+      "prep_time": "30 mins",
+      "ingredients": [
+        "1 cup dosa batter",
+        "1/2 cup boiled mashed potato",
+        "1/4 tsp mustard seeds",
+        "1 onion sliced",
+        "1 green chili",
+        "1/4 tsp turmeric",
+        "Salt to taste",
+        "Oil for cooking"
+      ],
+      "instructions": [
+        "Heat oil, add mustard seeds, onions, green chili.",
+        "Add turmeric and mashed potato. Cook filling.",
+        "Spread dosa batter on tawa, cook till golden.",
+        "Place filling, fold dosa, and serve hot."
+      ]
+    },
+    {
+    "id": 4,
+    "name": "Idli with Chutney",
+    "image": "https://media.istockphoto.com/id/1620129740/photo/selective-focus-of-south-indian-famous-food-idli-vada-with-sambar-and-chatney.jpg?s=612x612&w=0&k=20&c=sUepsZL9VXtY-J46o8pX0B06tXm-cgGGS-N5JIlaKUY=",
+    "prep_time": "25 mins",
+    "ingredients": [
+      "2 cups idli batter",
+      "Oil for greasing",
+      "1/2 cup coconut chutney"
+    ],
+    "instructions": [
+      "Grease idli molds with oil.",
+      "Pour batter into molds and steam for 10-12 minutes.",
+      "Serve hot with coconut chutney."
+    ]
+  },
+  {
+  "id": 5,
+  "name": "Medu Vada with Sambar",
+  "image": "https://media.istockphoto.com/id/1265607070/photo/medu-vada-with-tiffin-sambar-coconut-chutney-indian-fried-snack.jpg?s=612x612&w=0&k=20&c=mzf_AYm-0BK-0gxm-r7a4DcBXjgisMShRSM1HLXDmtE=",
+  "prep_time": "35 mins",
+  "ingredients": [
+    "1 cup urad dal (soaked 4 hrs)",
+    "1 green chili (chopped)",
+    "1 tsp black pepper",
+    "1 tsp ginger (grated)",
+    "Salt to taste",
+    "Oil for deep frying",
+    "Sambar & coconut chutney (for serving)"
+  ],
+  "instructions": [
+    "Grind soaked urad dal to a fluffy batter.",
+    "Add salt, chopped chili, pepper, and ginger.",
+    "Wet hands, shape into donuts, and deep fry till golden.",
+    "Serve hot with sambar and coconut chutney."
+  ]
+},
+{
+  "id": 6,
+  "name": "Veg Pulao",
+  "image": "https://media.istockphoto.com/id/1222031490/photo/veg-pulao-with-paneer-tikka-masala-and-lachha-paratha.jpg?s=612x612&w=0&k=20&c=ujCLDaBrUQvJblBIUApoRhf4tZ4qLs1pe1Zd1Yq-kXk=",
+  "prep_time": "30 mins",
+  "ingredients": [
+    "1 cup basmati rice (soaked 20 mins)",
+    "1/2 cup mixed vegetables (carrot, beans, peas, potato)",
+    "1 onion (sliced)",
+    "1 green chili (slit)",
+    "1 tsp ginger-garlic paste",
+    "1/4 tsp turmeric powder",
+    "1/2 tsp garam masala",
+    "Whole spices (1 bay leaf, 2 cardamoms, 2 cloves, 1 cinnamon stick)",
+    "2 tbsp oil or ghee",
+    "Salt to taste",
+    "Coriander leaves (for garnish)"
+  ],
+  "instructions": [
+    "Heat oil/ghee, sauté whole spices.",
+    "Add onion and green chili, cook until golden.",
+    "Add ginger-garlic paste, sauté for a minute.",
+    "Add chopped veggies, turmeric, garam masala, and salt. Sauté for 2-3 mins.",
+    "Add soaked rice and 2 cups water. Mix well.",
+    "Cover and cook on low until rice is done.",
+    "Garnish with coriander leaves and serve hot."
+  ]
+},
+
+
+{
+  "id": 7,
+  "name": "Chicken Biryani",
+  "image": "https://media.istockphoto.com/id/1345624336/photo/chicken-biriyani.jpg?s=612x612&w=0&k=20&c=adU_N0P-1SKMQLZu5yu7aPknfLLgbViI8XILqLP92A4=",
+  "prep_time": "1 hr",
+  "ingredients": [
+    "1 cup basmati rice (soaked 30 mins)",
+    "250g chicken (with bone, cleaned)",
+    "1/2 cup curd",
+    "1 onion (thinly sliced)",
+    "2 tomatoes (chopped)",
+    "1 tbsp ginger-garlic paste",
+    "1/2 tsp turmeric powder",
+    "1 tsp red chili powder",
+    "1 tsp garam masala",
+    "1/2 tsp biryani masala",
+    "Whole spices (1 bay leaf, 2 cloves, 2 cardamoms, 1 cinnamon stick)",
+    "Salt to taste",
+    "Coriander & mint leaves (chopped)",
+    "2 tbsp oil or ghee",
+    "Fried onions for garnish (optional)"
+  ],
+  "instructions": [
+    "Marinate chicken with curd, ginger-garlic paste, turmeric, chili powder, and salt for 30 mins.",
+    "Cook rice 80% with salt and drain. Set aside.",
+    "In a pot, heat oil/ghee, add whole spices and sliced onions. Sauté until golden.",
+    "Add tomatoes and cook till soft. Add marinated chicken, cook until tender and oil separates.",
+    "Add coriander and mint leaves.",
+    "Layer cooked rice over chicken, sprinkle some mint, coriander, and fried onions.",
+    "Cover and cook on low heat (dum) for 15-20 minutes.",
+    "Serve hot with raita or salan."
+  ]
+},
+{
+  "id": 8,
+  "name": "Ghee Dal Rice",
+  "image": "https://media.istockphoto.com/id/1315914161/photo/indian-style-dal-tadka-served-with-plain-rice.jpg?s=612x612&w=0&k=20&c=2czP_4QYZsPgYfrcfxZQo91Qbg0nU9sFcNGBWBKmEyg=",
+  "prep_time": "30 mins",
+  "ingredients": [
+    "1/2 cup toor dal (pigeon peas)",
+    "1 cup cooked rice",
+    "2 cups water (for boiling dal)",
+    "1/4 tsp turmeric powder",
+    "Salt to taste",
+    "2 tsp ghee",
+    "1/2 tsp cumin seeds",
+    "1 dry red chili",
+    "A pinch of asafoetida (hing)",
+    "Few curry leaves (optional)"
+  ],
+  "instructions": [
+    "Pressure cook toor dal with turmeric and 2 cups water for 3-4 whistles until soft.",
+    "Mash the cooked dal and mix with salt.",
+    "In a small pan, heat ghee. Add cumin seeds, red chili, hing, and curry leaves for tempering.",
+    "Pour the tempering over the dal and mix well.",
+    "Serve the hot dal over rice with an extra spoon of ghee on top."
+  ]
+},
+{
+  "id": 9,
+  "name": "Veg Thali",
+  "image": "https://media.istockphoto.com/id/1488738066/photo/south-indian-veg-thali-food-platter.jpg?s=612x612&w=0&k=20&c=hPaSi9trQtcf3F_cyHPsXpUGYJshG1u064e17SMD6Ds=",
+  "prep_time": "60 mins",
+  "ingredients": [
+    "1 cup cooked rice",
+    "2 chapatis",
+    "1 small bowl dal (lentils)",
+    "1 small bowl vegetable curry (like aloo gobi or mixed veg)",
+    "1 small bowl curd or raita",
+    "Papad or pickle",
+    "1 tsp ghee",
+    "Salt to taste"
+  ],
+  "instructions": [
+    "Prepare rice and chapatis.",
+    "Cook dal with turmeric, salt and temper with mustard, cumin, and garlic.",
+    "Prepare a seasonal vegetable curry with spices.",
+    "Whisk curd and add spices or vegetables to make raita.",
+    "Serve all items together on a plate with a spoon of ghee on rice.",
+    "Add pickle or papad for sides."
+  ]
+},
+{
+  "id": 10,
+  "name": "Fish Fry",
+  "image": "https://media.istockphoto.com/id/482121467/photo/indian-thali-with-fish.jpg?s=612x612&w=0&k=20&c=VN1wILU7RRC-ey9llvVpB7-YGemIz4LZfv3pO5g8qd4=",
+  "prep_time": "30 mins",
+  "ingredients": [
+    "4 fish slices (like Rohu or Pomfret)",
+    "1 tbsp red chili powder",
+    "1/2 tsp turmeric powder",
+    "1 tbsp ginger garlic paste",
+    "1 tsp lemon juice",
+    "Salt to taste",
+    "2 tbsp rice flour or semolina (for crispiness)",
+    "Oil for shallow frying"
+  ],
+  "instructions": [
+    "Clean fish slices thoroughly.",
+    "Mix chili powder, turmeric, salt, ginger garlic paste, and lemon juice to make a marinade.",
+    "Coat the fish slices in the marinade and let it rest for 20 minutes.",
+    "Sprinkle rice flour or semolina over both sides for a crispy texture.",
+    "Heat oil in a pan and shallow fry the fish on medium heat until golden brown on both sides.",
+    "Serve hot with onion rings and lemon wedges."
+  ]
+},
+{
+  "id": 11,
+  "name": "Chicken Pizza",
+  "image": "https://media.istockphoto.com/id/140454048/photo/cutting-pizza.jpg?s=612x612&w=0&k=20&c=2lCZjKJ8S93VUYskBVEuuUyA3y3m9nz5ecnHVGR7eLo=",
+  "prep_time": "45 mins",
+  "ingredients": [
+    "1 pizza base",
+    "1/2 cup cooked chicken (shredded or diced)",
+    "1/4 cup pizza sauce",
+    "1/2 cup mozzarella cheese (grated)",
+    "1/4 onion (sliced)",
+    "1/4 capsicum (sliced)",
+    "1/2 tsp chili flakes",
+    "1/2 tsp oregano",
+    "1 tsp olive oil"
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Spread pizza sauce evenly over the pizza base.",
+    "Add a layer of shredded chicken, onion, and capsicum.",
+    "Sprinkle mozzarella cheese generously over the toppings.",
+    "Add chili flakes and oregano for flavor.",
+    "Drizzle a bit of olive oil on top.",
+    "Bake in a preheated oven for 12–15 minutes or until the cheese is melted and bubbly.",
+    "Slice and serve hot."
+  ]
+},
+{
+  "id": 12,
+  "name": "KFC-Style Fried Chicken",
+  "image": "https://media.istockphoto.com/id/1406841380/photo/restaurant-style-fried-chicken-meal.jpg?s=612x612&w=0&k=20&c=xNTBUnNVo5O2bPJUAjZnciXKGPsAGZcFN8878CxCi-4=",
+  "prep_time": "60 mins",
+  "ingredients": [
+    "500g chicken drumsticks or wings",
+    "2 cups buttermilk",
+    "1 cup all-purpose flour",
+    "1/2 cup cornflour",
+    "1 tsp paprika",
+    "1 tsp garlic powder",
+    "1 tsp onion powder",
+    "1/2 tsp black pepper",
+    "1/2 tsp cayenne pepper",
+    "Salt to taste",
+    "Oil for deep frying"
+  ],
+  "instructions": [
+    "Marinate the chicken in buttermilk for at least 2 hours (preferably overnight).",
+    "In a large bowl, mix flour, cornflour, paprika, garlic powder, onion powder, black pepper, cayenne pepper, and salt.",
+    "Remove chicken from buttermilk, letting the excess drip off.",
+    "Coat chicken pieces in the flour mixture, pressing firmly for a thick crust.",
+    "Heat oil in a deep pan to 180°C (350°F).",
+    "Fry chicken pieces in batches for 10–15 minutes until golden and fully cooked.",
+    "Drain on paper towels and serve hot with ketchup or mayo dip."
+  ]
+},
+{
+  "id": 13,
+  "name": "Creamy Tomato Pasta",
+  "image": "https://media.istockphoto.com/id/1387700448/photo/fusili-with-meat-bacon-sausages-and-tomato-sauce.jpg?s=612x612&w=0&k=20&c=kVYyMF26p5VC3W-VdlRBPQO02EiamM-5XGHy_0enjok=",
+  "prep_time": "25 mins",
+  "ingredients": [
+    "200g penne pasta",
+    "2 tbsp olive oil",
+    "2 garlic cloves (minced)",
+    "1 small onion (chopped)",
+    "2 medium tomatoes (blended or finely chopped)",
+    "1/2 cup tomato puree",
+    "1/2 tsp chili flakes",
+    "1/2 tsp oregano",
+    "1/4 cup fresh cream",
+    "Salt to taste",
+    "Grated cheese (optional)",
+    "Fresh basil for garnish"
+  ],
+  "instructions": [
+    "Boil pasta in salted water until al dente, drain, and set aside.",
+    "Heat olive oil in a pan, sauté garlic and onions until soft.",
+    "Add blended tomatoes and tomato puree. Cook for 5–7 minutes.",
+    "Season with chili flakes, oregano, and salt.",
+    "Stir in fresh cream and mix well.",
+    "Add boiled pasta and toss to coat evenly.",
+    "Top with cheese if desired and garnish with fresh basil.",
+    "Serve hot."
+  ]
+},
+
+{
+  "id": 14,
+  "name": "Masala Maggi Noodles",
+  "image": "https://media.istockphoto.com/id/1487046121/photo/spaghetti-marinara-pasta-with-tomato-sauce-and-basil.jpg?s=612x612&w=0&k=20&c=aJR5JHxR5y-fn_ApAEn10PExf3ldxELFo61kHSvZ9HQ=",
+  "prep_time": "10 mins",
+  "ingredients": [
+    "1 pack Maggi noodles",
+    "1 3/4 cups water",
+    "1/4 onion (chopped)",
+    "1 small tomato (chopped)",
+    "1/4 cup green peas",
+    "1/4 tsp red chili powder (optional)",
+    "1/4 tsp turmeric (optional)",
+    "1 tsp oil or butter",
+    "Maggi tastemaker (included in pack)"
+  ],
+  "instructions": [
+    "Heat oil in a pan. Sauté onions until translucent.",
+    "Add tomatoes and cook until soft.",
+    "Add peas, turmeric, and red chili powder. Sauté for a minute.",
+    "Pour in water and bring to a boil.",
+    "Add Maggi noodles and tastemaker.",
+    "Cook for 2–3 minutes, stirring occasionally, until water is absorbed.",
+    "Serve hot."
+  ]
+}
+
+
+
+
+
+  ]
+
+}

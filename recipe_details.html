@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    #recipe_name{
+        text-align: center;
+    }
+    #time{
+        text-align: center;
+        font-weight: 700;
+    }
+    #ingredients,#preparation{
+        /* width: 380px; */
+        padding: 20px;
+        border: 2px solid lightgray;
+        border-radius: 20px;
+    }
+    div li{
+        padding-bottom: 5px;
+    }
+    #Prep_container{
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+    }
+</style>
+<body>
+    <nav>
+            <h1 style="color: orangered;">TastyQuest</h1>
+            <!-- <div id="search">
+                <input type="text" style="width: 400px; outline: none; border: none;" placeholder="Search">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </div> -->
+            <div class="links">
+                <span>Home</span>
+                <!-- <span>About Us</span> -->
+                <!-- <p>Favourites</p> -->
+                <!-- <i class="fa-regular fa-heart"></i>
+                <span id="user"></span>
+                <span id="logBtn"></span> -->
+            </div>
+        </nav>
+        <center><h2 style="color: #fff;background-color: orangered; padding: 7px 15px; border-radius: 15px;">RECIPE</h2></center>
+        <center><img></center>
+        <h2 id="recipe_name"></h2>
+        <h2 id="time"></h2>
+        <div id="Prep_container">
+        <div id="ingredients">
+            <h2>Ingredients</h2>
+        </div>
+        <div id="preparation">
+        <h2>Preparation 🍽️</h2>
+        </div>
+        </div>
+    <script src="recipe.js"></script>
+</body>
+</html>
