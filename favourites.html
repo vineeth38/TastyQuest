@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        nav{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        #recipes_container{
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            padding: 30px 0px;
+        }
+        .recipe_item{
+            padding: 15px;
+            border-radius: 20px;
+            border: 2px solid lightgrey;
+        }
+        .recipe_item >img{
+            width: 350px;
+        }
+        .recipe_btns{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        #title_container{
+            display: flex;
+            justify-content: space-between;
+            padding-top: 5px;
+        }
+        .recipe_btns p{
+         padding: 7px 14px;
+         border-radius: 15px;
+         background-color: orangered;
+         color: #fff;
+        }
+        .recipe_btns p:hover{
+            background-color: orange;
+            cursor: pointer;
+        }
+         #home:hover{
+      background-color: orange !important;
+    }
+    @media (min-width:390px) and (max-width:768px) {
+        .recipe_item >img{
+            width: 250px;
+        }
+    }
+    @media (min-width:769px) and (max-width:1024px) {
+        .recipe_item >img{
+            width: 300px;
+        }
+    }
+    </style>
+</head>
+<body>
+    <nav>
+        <h1 style="color: orangered;">TastyQuest</h1>
+        <a href="./index.html" style="text-decoration: none; padding: 6px 15px; background-color: orangered;color: #fff;border-radius: 7px;" id="home"><span>Home</span></a>
+    </nav>
+    <h2 style="background-color: orangered; color: #fff; padding: 7px 15px; width: 185px; border-radius: 15px;">Favourite Recipes </h2>
+    <div id="recipes_container">
+
+    </div>
+    <script type="module" src="./favourites.js"></script>
+</body>
+</html>
