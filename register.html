@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+          nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+        #signUpForm{
+           display: flex;
+        flex-direction: column;
+        gap: 10px; 
+         border: 2px solid lightgrey;
+        padding: 30px;
+        border-radius: 15px;
+         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+        }
+        #signUpForm input{
+            width: 200px;
+        }
+       #form{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 90vh;
+    }
+    button{
+        background-color: orangered;
+        color: #fff;
+        outline: none;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+        padding: 3px 7px;
+        font-size: large;
+        width: fit-content;
+    }
+    button:hover{
+        background-color: orange;
+    }
+    </style>
+</head>
+<body>
+     <nav>
+            <h1 style="color: orangered;">TastyQuest</h1>
+            <div class="links">
+                <a href="./index.html" style="text-decoration: none; padding: 6px 15px; background-color: orangered;color: #fff;border-radius: 7px;" id="home"><span>Home</span></a>
+            </div>
+        </nav>
+        <div id="form">
+    <form id="signUpForm">
+        <label for="name">Name</label>
+        <input type="text" id="name" required>
+        <label for="email">Email</label>
+        <input type="email" id="email" required>
+        <label for="password">Password</label>
+        <input type="password" id="password" required>
+        <button type="submit" id="signUp">Sign up</button>
+    </form>
+    </div>
+    <div id="img"></div>
+    <script type="module" src="signUp.js"></script>
+</body>
+</html>

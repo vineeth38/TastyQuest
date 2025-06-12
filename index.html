@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TastyQuest</title>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    </head>
+    
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><h1 style="color: orangered;">TastyQuest</h1></a>
+    <div id="search">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" class="Search-input" id="searchInput">
+            </div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSearch" aria-controls="navbarSearch" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSearch">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+            <!-- <a href="#aboutInfo" class="linkBtns" id="aboutus"><span >About Us</span></a> -->
+            <a href="" class="linkBtns" id="home"><span>Home</span></a>
+           <!-- <a class="nav-link active" aria-current="page" href="#aboutInfo">Home</a>  -->
+        </li>
+
+        <li class="nav-item">
+          <a href="#aboutInfo" class="linkBtns" id="aboutus"><span >About Us</span></a>
+        </li>
+        <li class="nav-item">
+          <a href="./favourites.html" style="color: black; padding: 0;"><i class="fa-regular fa-heart" style="font-size: larger;" id="favBtn"></i></a>
+        </li>
+        <li class="nav-item">
+            <span id="user"><i class="fa-regular fa-user"></i></span>
+        </li>
+        <li class="nav-item">
+            <span id="logBtn"></span>
+        </li>
+        <!-- Add more nav items as needed -->
+      </ul>
+
+      <!-- Search form -->
+      <!-- <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form> -->
+    </div>
+  </div>
+       <div id="searchContainer"><div id="searchItems"></div></div>
+</nav>
+
+        <!-- <div id="searchContainer"><div id="searchItems"></div></div> -->
+        <!-- <img src="https://rainbowrecipe.netlify.app/assets/images/hero.png" alt="" > -->
+        <div id="landing_section">
+            <div data-aos="fade-up" class="landing_content">
+                <h1>UNLEASH CULINARY EXCELLENCE</h1>
+                <p >Explore a world of flavors, discover handcrafted recipes, and let the aroma of our passion for cooking
+                    fill your kitchen</p>
+                <a href="#buttons_container" style="text-decoration: none;"><p style="background-color: orangered; color: #fff; width:fit-content; border-radius: 8px; padding: 7px 15px;" id="Explore_Recipe">EXPLORE RECIPES</p></a>
+            </div>
+        </div>
+        <div id="container2" data-aos="fade-down">
+            <span id="span1">RECIPES</span>
+            <span id="span2">EMBARK ON A JOURNEY</span>
+            <p style="width: 400px;">With our diverse collection of recipes we have something to satisfy every palate.</p>
+        </div>
+        <div id="buttons_container" data-aos="fade-down">
+            <p class="btn" data-value="all_recipes">ALL</p>
+            <p class="btn" data-value="tiffins">BREAKFAST</p>
+            <p class="btn" data-value="lunch">LUNCH</p>
+            <p class="btn" data-value="dinner">DINNER</p>
+        </div>
+        <div id="recipes_container" data-aos="fade-left"></div>
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div id="aboutInfo">
+            <div>
+            <div class="aboutUs" data-aos="fade-right">
+            <div>
+                <p style="background-color: orangered;color: #fff;padding: 7px 15px; border-radius: 7px; width:fit-content;">ABOUT US</p>
+            <h1 style="font-weight: 500;">OUR CULINARY CHRONICLES</h1>
+            <p>Our journey is crafted with dedication, creativity, and an unrelenting commitment to delivering delightful culinary experiences. Join us in savoring the essence of every dish and the stories that unfold.</p>
+            </div>
+            <div>
+                <img src="https://rainbowrecipe.netlify.app/assets/images/about2.png" alt="" id="meatImg">
+            </div>
+            </div>
+            <img src="https://rainbowrecipe.netlify.app/assets/images/about3.png" alt="" id="DishImg" data-aos="fade-up">
+            </div>
+            <div>
+                <img src="https://rainbowrecipe.netlify.app/assets/images/about1.png" alt="" id="ChefImg" data-aos="fade-left">
+            </div>
+        </div>
+        <footer>
+          <div>
+            <h3>TastyQuest</h3>
+            <div class="social-media-icons">
+              <i class="fa-brands fa-facebook"></i>
+              <i class="fa-brands fa-square-x-twitter"></i>
+              <i class="fa-brands fa-instagram"></i>
+              <i class="fa-brands fa-whatsapp"></i>
+            </div>
+          </div>
+          <center><p>COPYRIGHT: © 2024 TastyQuest.</p></center>
+        </footer>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
+            crossorigin="anonymous"></script>
+            <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" integrity="sha512-A7AYk1fGKX6S2SsHywmPkrnzTZHrgiVT7GcQkLGDe2ev0aWb8zejytzS8wjo7PGEXKqJOrjQ4oORtnimIRZBtw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
+    <script type="module" src="index.js"></script>
+      <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+    </body>
+    
+    </html>
+
+    <!-- diffing algorithem
+    recoincilation  -->
+    <!-- The algorithm that compares the previous virtual DOM with the new virtual DOM to identify changes. diffing algorithm  -->
